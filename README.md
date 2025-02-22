@@ -9,7 +9,6 @@
 [![Linkedin: Mete Polat](https://img.shields.io/badge/-Mete%20Polat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andlukyane/)](https://www.linkedin.com/in/metecanpolat/)
 [![Kaggle Badge](https://img.shields.io/badge/-jackmete-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/jackmete)](https://www.kaggle.com/jackmete)
 ![Profile views](https://komarev.com/ghpvc/?username=metepolat825)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=metepolat825&label=Profile%20views&color=0e75b6&style=flat" alt="metepolat825" /> </p>
 
 ### About Me 🌐
 Combining over 2 years of experience in Data Analysis, Software Development and Computer Grahics, I transform data into impactful solutions and experiences for businesses.

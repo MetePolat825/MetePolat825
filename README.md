@@ -1,9 +1,38 @@
 <h1 align="center">Hi 👋, I'm Mete</h1>
 <h3 align="center">Currently completing my undergraduate degree in Computer Graphics and preparing to start my MSc in Computer Science. Interested in Data and Machine Learning for business applications.</h3>
 
+📍 **London, UK**  
+📧 **Email:** [mete825@gmail.com](mailto:mete825@gmail.com)  
+🔗 **LinkedIn:** [Mete Polat](https://www.linkedin.com/in/metecanpolat/)  
+👨‍💻 **GitHub:** [MetePolat825](https://github.com/MetePolat825)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=metepolat825&label=Profile%20views&color=0e75b6&style=flat" alt="metepolat825" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=metepolat825" alt="metepolat825" /></a> </p>
+
+### About Me 🌐
+Combining over 2 years of experience in Data Analysis, Software Development and Computer Grahics, I transform data into impactful solutions and experiences for businesses.
+
+### Professional Experience 🌟
+- **Software Developer** - Raytheon Technologies, Brighton, UK (2023 - 2024)
+
+### Tech Toolbox 🛠️
+- **Languages:** Python, SQL, JavaScript, Ruby
+- **Frameworks & Libraries:** PyTorch, Langchain, Vector Databases, Huggingface, SpaCy
+- **Tools:** AWS, GCP, Docker, Git
+- **Specialties:** LLMs, Generative AI, NLP, Search
+
+### Education 🎓
+- **Upcoming MSc Computer Science**, University of Bristol (2025 - 2026)
+- **Bachelors in Computer Applications**, Anglia Ruskin University (2022 - 2025)
+- **Econometrics and Statistics**, Istanbul University (2020 - 2021)
+
+### Certifications 📜
+- **In-Progress:** Google Data Analysis Professional Certificate 
+- **Coursera:** Python Analysis, Machine Learning, Mathematics for ML Specialization
+- **Harvard:** CS50 Computer Science, Web Development, Artificial Intelligence
+
+### Highlights 🌟
 
 - 🔭 I’m currently working on [MapMorph: Web App for AI-Powered PBR Texture Generation](https://github.com/MetePolat825/MapMorph_Web_App_PBR_Texture_Generation)
 

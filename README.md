@@ -15,13 +15,15 @@ Combining over 2 years of experience in Data Analysis, Software Development and 
 
 ### Professional Experience 🌟
 - **Software Developer** - Raytheon Technologies, Brighton, UK (2023 - 2024)
+- **Software Developer** - Anglia Ruskin University, Cambridge, UK (2023)
 
 ### Tech Toolbox 🛠️
 - **Languages:** Python, SQL, C# and C/C++
 - **Frameworks & Libraries:** PyTorch, Pandas, Numpy, OpenCV, Matplotlib
 - **Tools:** AWS, Docker, Git
 - **Deployment:** Pythonanywhere, Heroku
-- **Specialties:** Data Science, Computer Vision, Computer Graphics (3D focus)
+- **Specialties:** Data Science, Computer Vision, Computer Graphics (3D focus), Virtual Reality
+- **Game Engines:** Unreal Engine 5, Unity, Godot
 
 ### Education 🎓
 - **Upcoming MSc Computer Science**, University of Bristol (2025 - 2026)

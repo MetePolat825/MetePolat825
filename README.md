@@ -14,6 +14,8 @@
 Combining over 2 years of experience in Data Analysis, Software Development and Computer Grahics, I transform data into impactful solutions and experiences for businesses.
 
 ### Professional Experience 🌟
+- Looking for a summer internship...
+- **Data Analyst** - Anglia Ruskin University, Cambridge, UK (2024 - 2025)
 - **Software Developer** - Raytheon Technologies, Brighton, UK (2023 - 2024)
 - **Software Developer** - Anglia Ruskin University, Cambridge, UK (2023)
 

@@ -29,7 +29,7 @@ Combining over 2 years of experience in Software Engineering and Computer Grahic
 
 ### Education 🎓
 - **Incoming MSc Computer Science**, University of Bristol (2025 - 2026)
-- **Bachelors in Computer Graphics and Technology**, ARU Cambridge (2022 - 2025)
+- **Bachelors in Computer Games Development**, ARU Cambridge (2022 - 2025)
 - **Econometrics and Statistics**, Istanbul University (2020 - 2021)
 
 ### Certifications 📜

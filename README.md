@@ -14,21 +14,21 @@
 Combining over 2 years of experience in Data Analysis, Software Development and Computer Grahics, I transform data into impactful solutions and experiences for businesses.
 
 ### Professional Experience 🌟
-- Looking for a summer internship...
+- **Software Engineer** - Reneural Technologies, Hatfield, UK (Present)
 - **Data Analyst** - Anglia Ruskin University, Cambridge, UK (2024 - 2025)
 - **Software Developer** - Raytheon Technologies, Brighton, UK (2023 - 2024)
 - **Software Developer** - Anglia Ruskin University, Cambridge, UK (2023)
 
 ### Tech Toolbox 🛠️
-- **Languages:** Python, SQL, C# and C/C++
+- **Languages:** Python, SQL, C#, .NET Core
 - **Frameworks & Libraries:** PyTorch, Pandas, Numpy, OpenCV, Matplotlib
-- **Tools:** AWS, Docker, Git
-- **Deployment:** Pythonanywhere, Heroku
-- **Specialties:** Data Science, Computer Vision, Computer Graphics (3D focus), Virtual Reality
+- **Tools:** Azure, Docker, Git, Open XR
+- **Deployment:** Pythonanywhere, Heroku, Google Firebase
+- **Specialties:** Data Science, Computer Vision, Computer Graphics (3D focus), Virtual Reality (XR: AR and VR)
 - **Game Engines:** Unreal Engine 5, Unity, Godot
 
 ### Education 🎓
-- **Upcoming MSc Computer Science**, University of Bristol (2025 - 2026)
+- **Incoming MSc Computer Science**, University of Bristol (2025 - 2026)
 - **Bachelors in Computer Graphics and Technology**, ARU Cambridge (2022 - 2025)
 - **Econometrics and Statistics**, Istanbul University (2020 - 2021)
 

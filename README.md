@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mete</h1>
-<h3 align="center">Software Engineer currently doing an internship with Reneural Technologies using C# and Virtual Reality and preparing to start my MSc in Computer Science at the University of Bristol. Interested in summer internships for this summer and graduate roles for 2026.</h3>
+<h3 align="center">Software Engineer at Reneural Technologies using C# and Virtual Reality and preparing to start my MSc in Computer Science at the University of Bristol. Interested in summer internships for this summer and graduate roles for 2026.</h3>
 
 📍 **London, UK**  
 📧 **Email:** [mete825@gmail.com](mailto:mete825@gmail.com)  

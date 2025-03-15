@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mete</h1>
-<h3 align="center">Currently completing my undergraduate degree in Computer Graphics and preparing to start my MSc in Computer Science. Interested in Data and Machine Learning for business applications.</h3>
+<h3 align="center">Software Engineer currently doing an internship with Reneural Technologies using C# and Virtual Reality and preparing to start my MSc in Computer Science at the University of Bristol. Interested in summer internships for this summer and graduate roles for 2026.</h3>
 
 📍 **London, UK**  
 📧 **Email:** [mete825@gmail.com](mailto:mete825@gmail.com)  
@@ -11,7 +11,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=metepolat825)
 
 ### About Me 🌐
-Combining over 2 years of experience in Data Analysis, Software Development and Computer Grahics, I transform data into impactful solutions and experiences for businesses.
+Combining over 2 years of experience in Software Engineering and Computer Grahics, I transform data into impactful solutions and experiences for businesses.
 
 ### Professional Experience 🌟
 - **Software Engineer** - Reneural Technologies, Hatfield, UK (Present)
@@ -48,8 +48,6 @@ Combining over 2 years of experience in Data Analysis, Software Development and 
 - 👨‍💻 All of my projects are available at [https://github.com/MetePolat825](https://github.com/MetePolat825)
 
 - 💬 Ask me about **Python, anything computer graphics related, automation strategies for business!**
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

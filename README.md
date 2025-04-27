@@ -11,7 +11,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=metepolat825)
 
 ### About Me 🌐
-Combining over 2 years of experience in Software Engineering and , I create software solutions to drive innovation and automation, and transform data into impactful and actionable insights for businesses.
+Combining over 2 years of experience in Software Engineering, I create software solutions to drive innovation and automation, and transform data into impactful and actionable insights for businesses.
 
 ### Professional Experience 🌟
 - **Software Engineer** - Reneural Technologies, Hatfield, UK (Present)

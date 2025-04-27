@@ -11,26 +11,24 @@
 ![Profile views](https://komarev.com/ghpvc/?username=metepolat825)
 
 ### About Me 🌐
-Combining over 2 years of experience in Software Engineering and Computer Grahics, I transform data into impactful solutions and experiences for businesses.
+Combining over 2 years of experience in Software Engineering and , I create software solutions to drive innovation and automation, and transform data into impactful and actionable insights for businesses.
 
 ### Professional Experience 🌟
 - **Software Engineer** - Reneural Technologies, Hatfield, UK (Present)
-- **Data Analyst** - Anglia Ruskin University, Cambridge, UK (2024 - 2025)
-- **Software Developer** - Raytheon Technologies, Brighton, UK (2023 - 2024)
+- **Software Engineer** - Raytheon Technologies, Brighton, UK (2023 - 2024)
 - **Software Developer** - Anglia Ruskin University, Cambridge, UK (2023)
-
-### Tech Toolbox 🛠️
-- **Languages:** Python, SQL, C#, .NET Core
-- **Frameworks & Libraries:** PyTorch, Pandas, Numpy, OpenCV, Matplotlib
-- **DevOps:** Azure, Docker, Git, GitHub Actions, CI/CD
-- **Web Deployment:** Pythonanywhere, Heroku, Google Firebase
-- **Specialties:** Software Engineering, Computer Graphics, Virtual Reality (Open XR)
-- **3D Engines:** Unreal Engine 5, Unity, Godot
 
 ### Education 🎓
 - **Incoming MSc Data Science**, UCL (2025 - 2026)
 - **Bachelors in Computer Games Development**, ARU Cambridge (2022 - 2025)
 - **Econometrics and Statistics**, Istanbul University (2020 - 2021)
+
+### Tech Toolbox 🛠️
+- **Languages:** Python, SQL, C#, C
+- **Frameworks & Libraries:** PyTorch, Pandas, Numpy, OpenCV, Matplotlib
+- **DevOps:** Azure, Docker, Git, GitHub Actions, CI/CD
+- **Web Deployment:** Pythonanywhere, Heroku, Google Firebase
+- **Specialties:** Software Engineering, Computer Graphics, Virtual Reality, Immersive Technologies
 
 ### Certifications 📜
 - **In-Progress:** Google Data Analysis Professional Certificate 

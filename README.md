@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mete</h1>
-<h3 align="center">Software Engineer at Reneural Technologies using C# and Virtual Reality and preparing to start my MSc in Computer Science at the University of Bristol. Interested in summer internships for this summer and graduate roles for 2026.</h3>
+<h3 align="center">Software Engineer at Reneural Technologies, preparing to start my MSc in Data Science at UCL. Interested in summer internships for this summer and graduate roles for 2026.</h3>
 
 📍 **London, UK**  
 📧 **Email:** [mete825@gmail.com](mailto:mete825@gmail.com)  
@@ -28,7 +28,7 @@ Combining over 2 years of experience in Software Engineering and Computer Grahic
 - **3D Engines:** Unreal Engine 5, Unity, Godot
 
 ### Education 🎓
-- **Incoming MSc Computer Science**, University of Bristol (2025 - 2026)
+- **Incoming MSc Data Science**, UCL (2025 - 2026)
 - **Bachelors in Computer Games Development**, ARU Cambridge (2022 - 2025)
 - **Econometrics and Statistics**, Istanbul University (2020 - 2021)
 

@@ -20,8 +20,8 @@ Combining over 2 years of experience in Software Engineering, I create software 
 
 ### Education 🎓
 - **Incoming MSc Data Science**, UCL (2025 - 2026)
-- **Bachelors in Computer Games Development**, ARU Cambridge (2022 - 2025)
-- **Econometrics and Statistics**, Istanbul University (2020 - 2021)
+- **Bachelors in Software Development and Computer Graphics**, ARU Cambridge (2022 - 2025)
+- **Bachelors in Econometrics and Statistics**, Istanbul University (2020 - 2021)
 
 ### Tech Toolbox 🛠️
 - **Languages:** Python, SQL, C#, C
